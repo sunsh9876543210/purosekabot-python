@@ -1,0 +1,41 @@
+{
+  "select": {
+    "charaName": "Nome personaggio"
+  },
+  "type": {
+    "caption": "Tipo missione",
+    "character_rank": "Rank personaggio",
+    "clear_live": "Live completato",
+    "player_rank": "Rank giocatore",
+    "login": "Login",
+    "collect": "Raccogli",
+    "unit_rank": "Rank unità",
+    "area_item": "Area item",
+    "master": "Difficoltà master",
+    "multi_live": "Multi Live",
+    "duplicate_card": "Carta duplicata",
+    "action_set": "Discussione d'area",
+    "read_story": "Leggi la storia",
+    "virtual_live": "Virtual Live",
+    "make": "Crea (es. Costume)",
+    "skill_level": "Livello Skill",
+    "master_rank": "Master Rank",
+    "set_honor": "Metti il titolo",
+    "clear": "Completa (es. Live)",
+    "read": "Leggi (es. Storia)",
+    "use": "Usa (es. Oggetto)",
+    "buy": "Compra (es. Costume)",
+    "inherit": "Eredità",
+    "achieve": "Archivia",
+    "play_live": "Conteggio live giocati",
+    "waiting_room": "Sala d'attesa",
+    "collect_costume_3d": "Colleziona costume 3D",
+    "collect_stamp": "Colleziona timbro",
+    "read_area_talk": "Leggi discussione d'area.",
+    "read_card_episode_first": "Leggi la prima parte della storia della carta",
+    "read_card_episode_second": "Leggi la seconda parte della storia della carta",
+    "skill_level_up": "Aumenta il livello della skill"
+  },
+  "requirement": "Quantitativo richiesto",
+  "mission_group": "Missione di gruppo"
+}

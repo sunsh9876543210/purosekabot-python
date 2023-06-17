@@ -1,0 +1,41 @@
+{
+  "result": {
+    "perHour": "Per Hour",
+    "eventPointPerPlay": "Event Point Per Play",
+    "playClount": "Total Play Count",
+    "playTime": "Total Play Time",
+    "useBoost": "Total Consumed Boost",
+    "totalPoint": "Total Event Point"
+  },
+  "eventData": {
+    "label": "Event Data"
+  },
+  "eventMode": {
+    "existed": "Existing",
+    "custom": "Customize"
+  },
+  "gameData": {
+    "energyDrink": "Boost Cost",
+    "eventBonusRate": "Event Bonus Rate (%)",
+    "teamAvgPower": "Average Total Power",
+    "currentPoint": "Current Point",
+    "targetPoint": "Target Point",
+    "label": "Game Data",
+    "desc": "Fill in the data from game for calculation",
+    "remainingTime": "Event Remaining Hours"
+  },
+  "songSelect": {
+    "label": "Song Select",
+    "select": {
+      "difficulty": "Difficulty",
+      "song": "Song"
+    },
+    "desc": "Select song for analyzing."
+  },
+  "songMode": {
+    "label": "Song Select",
+    "all_songs": "Compare songs",
+    "only_one": "Targeting one"
+  },
+  "assumption": "Assumption: all perfect, multiplayers all have same team, no level up boost bonus."
+}

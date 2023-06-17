@@ -1,0 +1,26 @@
+{
+  "cardLevel": "Level karty",
+  "skillLevel": "Level Dovednosti",
+  "trained": "Cvičený",
+  "sideStory1Unlocked": "Vedlejší příběh 1 odemčený",
+  "sideStory2Unlocked": "Vedlejší příběh 2 odemčený",
+  "skillName": "Název Dovednosti",
+  "tab": {
+    "title[0]": "Normální Obrázek",
+    "title[1]": "Normální oříznutý obrázek",
+    "title[2]": "Obrázek po trénování",
+    "title[3]": "Oříznutý obrázek po trénování"
+  },
+  "gachaPhrase": "Gacha fráze",
+  "skillEffect": "Efekt Dovednosti",
+  "masterRank": "Mistrovská Hodnost",
+  "masterRankLevel": "Level Mistrovský Hodnoty",
+  "stats": "Statistiky",
+  "normal": "Normální",
+  "sideStory": "Vedlejší Příběh",
+  "sideStory_plural": "Vedlejší Příběhy",
+  "rarity": "Vzácnost",
+  "power": "Síla",
+  "apply_event_filter": "Aplikovat bonusy eventu",
+  "skill": "Skill"
+}

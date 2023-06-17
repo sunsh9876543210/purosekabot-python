@@ -1,0 +1,17 @@
+{
+  "send": "送出",
+  "write": "撰寫",
+  "no_comment_yet": "尚無留言。",
+  "report-abuse": {
+    "title": "檢舉留言",
+    "description": "如果您認為這則留言讓您感到不舒服，請按下檢舉。",
+    "reason": {
+      "label": "檢舉原因",
+      "other": "其他",
+      "bad_words": "侮辱性話語",
+      "discrimination": "歧視"
+    },
+    "content": "詳細敘述",
+    "success": "感謝您的檢舉，我們將盡快進行審核。"
+  }
+}

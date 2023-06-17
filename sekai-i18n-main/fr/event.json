@@ -1,0 +1,84 @@
+{
+  "alreadyEnded": "L'événement est terminé",
+  "notStarted": "Pas commencé",
+  "tab": {
+    "title[0]": "Bannière et logo",
+    "title[1]": "Fond",
+    "title[2]": "Personnage"
+  },
+  "remainingTime": "Temps restant",
+  "progress": "Progression",
+  "title": {
+    "boost": "Boost",
+    "cheerful_carnival": "Joyeux carnaval",
+    "timepoint": "Points de temps",
+    "rankingRewards": "Récompenses de classement"
+  },
+  "boostAttribute": "Attribut favorisé",
+  "boostCharacters": "Personnages favorisés",
+  "maxBoost": "Boost max (lorsque les deux correspondent)",
+  "boostSpecificCards": "Cartes favorisées spéciales",
+  "boostCards": "Cartes favorisées",
+  "eventCards": "Cartes d'événement",
+  "cheerful_carnival_midterm_1": "Premier rapport de mi-parcours",
+  "cheerful_carnival_midterm_2": "Deuxième rapport de mi-parcours",
+  "startAt": "Commence le",
+  "closeAt": "Se termine le",
+  "endAt": "Disponible jusqu'au",
+  "rankingAnnounceAt": "Annonce du classement",
+  "distributionStartAt": "Distribution des récompenses",
+  "rankingReward": {
+    "start": "De",
+    "end": "À"
+  },
+  "tracker": {
+    "select": {
+      "event_name": "Nom de l'événement",
+      "rankings": "Classements"
+    },
+    "button": {
+      "curr_event": "Événement en cours",
+      "graph": "Graphique de recherche",
+      "random-palette": "Palette aléatoire"
+    },
+    "pred_at": "Prévision calculée à",
+    "show_all_rank": "Afficher tous les classements",
+    "time_travel_enabled": "Déplacer dans le temps",
+    "tooltip": {
+      "get_prediction": "La prédiction n'est disponible qu'après 24 heures à compter du début de l'événement."
+    },
+    "checkbox": {
+      "get_prediction": "Récupérer la prédiction"
+    },
+    "title": {
+      "data_graph": "Graphique des points d'événement",
+      "average_speed": "Vitesse moyenne"
+    }
+  },
+  "ranking": "Classement",
+  "realtime": "Données en temps réel le",
+  "nextfetch": "Suivant",
+  "rankingTable": {
+    "head": {
+      "userProfile": "Utilisateur",
+      "score": "Point(s)",
+      "speed_per_hour": "Vitesse moyenne (/h)",
+      "prediction": "Prédiction"
+    }
+  },
+  "no_enough_data": "Données insuffisantes.",
+  "speedTable": {
+    "head": {
+      "all_time": "En tout temps (par heure)",
+      "last_24h": "Dernières 24 heures (par heure)",
+      "last_1h": "Dernière heure (par heure)"
+    }
+  },
+  "type": {
+    "marathon": "Marathon",
+    "cheerful_carnival": "Joyeux carnaval"
+  },
+  "distributionEndAt": "Fin de la distribution des récompenses",
+  "aggregateAt": "Fin de l'événement",
+  "alreadyPast": "Déjà passé"
+}

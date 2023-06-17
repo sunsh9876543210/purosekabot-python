@@ -1,0 +1,84 @@
+{
+  "alreadyEnded": "L'esdeveniment ha finalitzat",
+  "notStarted": "Sense començar",
+  "tab": {
+    "title[0]": "Logotip i bàner",
+    "title[1]": "Imatge de fons",
+    "title[2]": "Personatge"
+  },
+  "remainingTime": "Temps restant",
+  "progress": "Progrés",
+  "title": {
+    "boost": "Impuls",
+    "cheerful_carnival": "Carnaval animat",
+    "timepoint": "Cronologia",
+    "rankingRewards": "Recompenses per classificació"
+  },
+  "boostAttribute": "Atribut que dóna Impuls",
+  "boostCharacters": "Personatges que donen Impuls",
+  "maxBoost": "Impuls máxim (utilitzant tots dos)",
+  "boostSpecificCards": "Cartes especials amb Impuls",
+  "boostCards": "Cartes d'Impuls",
+  "eventCards": "Cartes de l'esdeveniment",
+  "cheerful_carnival_midterm_1": "Informe de la primera part",
+  "cheerful_carnival_midterm_2": "Informe de la segona part",
+  "startAt": "L'esdeveniment comença el",
+  "closeAt": "L'esdeveniment finalitza el",
+  "endAt": "Participació a l'esdeveniment disponible fins el",
+  "rankingAnnounceAt": "Anunci de la classificació el",
+  "distributionStartAt": "Distribució de les recompenses des del",
+  "rankingReward": {
+    "start": "Des del",
+    "end": "Fins el"
+  },
+  "tracker": {
+    "select": {
+      "event_name": "Nom de l'esdeveniment",
+      "rankings": "Classificacions"
+    },
+    "button": {
+      "curr_event": "Esdeveniment actual",
+      "graph": "Carregar gràfica",
+      "random-palette": "Randomitzar colors"
+    },
+    "pred_at": "Predicció calculada a les",
+    "show_all_rank": "Mostrar totes les posicions",
+    "time_travel_enabled": "Viatjar en el temps",
+    "tooltip": {
+      "get_prediction": "Les prediccions només hi seran disponibles després de 24 hores des del començament de l'esdeveniment."
+    },
+    "checkbox": {
+      "get_prediction": "Carregar predicció"
+    },
+    "title": {
+      "data_graph": "Gràfica de punts de l'esdeveniment",
+      "average_speed": "Velocitat mitjana"
+    }
+  },
+  "ranking": "Classificació",
+  "realtime": "Dades en temps real a",
+  "nextfetch": "Càrrega següent",
+  "rankingTable": {
+    "head": {
+      "userProfile": "Usuari",
+      "score": "Punt(s)",
+      "speed_per_hour": "Velocitat mitja (/h)",
+      "prediction": "Predicció"
+    }
+  },
+  "no_enough_data": "No hi ha dades suficients.",
+  "speedTable": {
+    "head": {
+      "all_time": "Total (per hora)",
+      "last_24h": "Darreres 24 hores (per hora)",
+      "last_1h": "Darrera hora (per hora)"
+    }
+  },
+  "type": {
+    "marathon": "Marató",
+    "cheerful_carnival": "Un Carnaval Animat"
+  },
+  "distributionEndAt": "Distribució de les recompenses fins el",
+  "aggregateAt": "Afegir cronologia",
+  "alreadyPast": "Ja pasada"
+}

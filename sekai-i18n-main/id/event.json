@@ -1,0 +1,84 @@
+{
+  "alreadyEnded": "Event telah berakhir",
+  "notStarted": "Belum dimulai",
+  "tab": {
+    "title[0]": "Banner & logo",
+    "title[1]": "Latar Belakang",
+    "title[2]": "Karakter"
+  },
+  "remainingTime": "Waktu yang tersisa",
+  "progress": "Proses",
+  "title": {
+    "boost": "Peningkatan",
+    "cheerful_carnival": "Karnival Ceria",
+    "timepoint": "Titik Waktu",
+    "rankingRewards": "Hadiah Peringkat"
+  },
+  "boostAttribute": "Atribut Boost",
+  "boostCharacters": "Karakter Boost",
+  "maxBoost": "Boost Max (Keduanya digunakan)",
+  "boostSpecificCards": "Peningkatan Kartu Spesial",
+  "boostCards": "Kartu Penguat",
+  "eventCards": "Kartu Event",
+  "cheerful_carnival_midterm_1": "Laporan Hasil Pertama",
+  "cheerful_carnival_midterm_2": "Laporan Hasil Kedua",
+  "startAt": "Event Dimulai Pada",
+  "closeAt": "Event Ditutup Pada",
+  "endAt": "Event Tersedia Hingga",
+  "rankingAnnounceAt": "Pengumuman Peringkat Pada",
+  "distributionStartAt": "Pembagian Hadiah Dari",
+  "rankingReward": {
+    "start": "Dari",
+    "end": "Sampai"
+  },
+  "tracker": {
+    "select": {
+      "event_name": "Nama Event",
+      "rankings": "Peringkat"
+    },
+    "button": {
+      "curr_event": "Event Saat ini",
+      "graph": "Ambil Grafik",
+      "random-palette": "Acak Palet"
+    },
+    "pred_at": "Prediksi dihitung pada",
+    "show_all_rank": "Tampilkan semua peringkat",
+    "time_travel_enabled": "Perjalanan waktu",
+    "tooltip": {
+      "get_prediction": "Prediksi hanya tersedia setelah 24 jam sejak event dimulai."
+    },
+    "checkbox": {
+      "get_prediction": "Ambil Prediksi"
+    },
+    "title": {
+      "data_graph": "Grafik Event Point",
+      "average_speed": "Kecepatan Rata-rata"
+    }
+  },
+  "ranking": "Peringkat",
+  "realtime": "Data waktu saat ini pada",
+  "nextfetch": "Laporan berikutnya",
+  "rankingTable": {
+    "head": {
+      "userProfile": "Pengguna",
+      "score": "Nilai",
+      "speed_per_hour": "Rata-rata Kecepatan (/jam)",
+      "prediction": "Prediksi"
+    }
+  },
+  "no_enough_data": "Tidak ada cukup data.",
+  "speedTable": {
+    "head": {
+      "all_time": "Sepanjang waktu (per-jam)",
+      "last_24h": "24 jam terakhir (per-jam)",
+      "last_1h": "1 jam terakhir (per-jam)"
+    }
+  },
+  "type": {
+    "marathon": "Maraton",
+    "cheerful_carnival": "Karnaval Ceria"
+  },
+  "distributionEndAt": "Pembagian Hadiah Hingga",
+  "aggregateAt": "Titik waktu Teragregasi",
+  "alreadyPast": "Sudah lewat"
+}

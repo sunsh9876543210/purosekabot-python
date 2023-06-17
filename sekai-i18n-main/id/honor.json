@@ -1,0 +1,15 @@
+{
+  "page_title": "Title",
+  "honor_group": "Title Grup",
+  "rarity": {
+    "low": "Rendah",
+    "middle": "Menengah",
+    "high": "Tinggi",
+    "highest": "Sangat tinggi"
+  },
+  "type": {
+    "character": "Karakter",
+    "achievement": "Pencapaian",
+    "event": "Event"
+  }
+}

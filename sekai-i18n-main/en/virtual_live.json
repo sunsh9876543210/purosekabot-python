@@ -1,0 +1,25 @@
+{
+  "live_characters": "Characters",
+  "rewards": "Rewards",
+  "title": {
+    "schedules": "Schedules",
+    "setlist": "Scenario"
+  },
+  "schedule": {
+    "start": "Start",
+    "end": "End"
+  },
+  "mc": {
+    "character_unspawn": "Character Disappear"
+  },
+  "type": {
+    "normal": "Normal",
+    "beginner": "Beginner",
+    "cheerful_carnival": "Cheerful Carnival",
+    "streaming": "Streaming"
+  },
+  "step": {
+    "mc": "MC",
+    "music": "Music Live"
+  }
+}

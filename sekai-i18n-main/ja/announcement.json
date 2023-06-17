@@ -1,0 +1,18 @@
+{
+  "category": "カテゴリー",
+  "published_at": "公開日時",
+  "translators": "翻訳者",
+  "fetch_error": "データ取得中にエラーが発生しました。",
+  "no_entry": "エントリはありません。",
+  "title": "タイトル",
+  "language": "言語",
+  "author": "作成者",
+  "co-authors": "開発協力者",
+  "categoryName": {
+    "website": "ウェブサイト",
+    "normal": "その他",
+    "game_update": "アプリの更新",
+    "maintenance": "メンテナンス",
+    "bug": "不具合"
+  }
+}

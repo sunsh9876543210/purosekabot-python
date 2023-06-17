@@ -1,0 +1,57 @@
+{
+  "buildTeam": {
+    "cardMaxError": "Já tem cards o suficiente.",
+    "addCard": "Adicionar Card",
+    "saveTeam": "Salvar Time",
+    "loadTeam": "Carregar Time",
+    "clearTeam": "Limpar Time",
+    "teamPower": "Poder do Time",
+    "label": "Construir Time",
+    "desc": "Construa seu time para o Recomendador de Músicas",
+    "duplicatedCardError": "Não pode adicionar a mesma card em uma equipe.",
+    "loadTeamError": "Verifique sua entrada.",
+    "teamTextCopied": "Texto da equipe copiado para a área de transferência.",
+    "teamTextSaved": ""
+  },
+  "addCardDialog": {
+    "title": "Adicionar Card",
+    "selectChara": "Personagem",
+    "selectRarity": "Raridade"
+  },
+  "result": {
+    "musicName": "Nome da Música",
+    "label": "Resultado",
+    "desc": "Apenas uma etapa e você termina."
+  },
+  "getResult": "Ver o Resultado",
+  "modeSelect": {
+    "solo": "Solo",
+    "multi": "Multiplayer",
+    "label": "Selecionar Modo",
+    "desc": "Selecione o modo de jogatina para o recomendador.",
+    "score": "Pontuação",
+    "event_point": "Pontos de Evento",
+    "play_count": "Por Quantidade de Vezes Jogadas",
+    "per_hour": "Por Horas"
+  },
+  "table": {
+    "column": {
+      "low": "Menor Pontuação",
+      "high": "Maior Pontuação"
+    }
+  },
+  "assumption": "Suposição: tudo perfeito, bônus de evento de 0%, uso de bebida energética 0, multijogadores todos têm o mesmo poder de equipe.",
+  "saveTeamDialog": {
+    "title": "Salvar Time",
+    "desc": "Salve o código da equipe e carregue-o mais tarde."
+  },
+  "teamCode": "Código do Time",
+  "loadTeamDialog": {
+    "title": "Carregar Time",
+    "desc": "Cole o código da equipe salvo e carregue-o."
+  },
+  "songSelect": {
+    "label": "Selecionar Música",
+    "desc": "Selecione uma ou mais músicas para analisar. Deixe em branco para analisar todas as músicas."
+  }
+}

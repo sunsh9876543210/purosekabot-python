@@ -1,0 +1,118 @@
+{
+  "profile": {
+    "title": {
+      "user_deck": "Tim Sekai Saat ini",
+      "user_event": "Data Event Sekai",
+      "card_list": "Kartu Sekai",
+      "import_card": "Impor Kartu Sekai",
+      "manage_teams": "Kelola Tim",
+      "sekai_profile": "Profil Sekai",
+      "sekai_cards_teams": "Kartu & Tim Sekai",
+      "user_statistics": "Statistik Sekai"
+    },
+    "import_card": {
+      "table": {
+        "row": {
+          "card_master_rank": "Rank Master",
+          "cropped_image": "Sumber",
+          "best_match": "Cocok",
+          "card_states": "Status Kartu",
+          "other_possible_result": "Cocokkan yang lainnya",
+          "card_power": "kekuatan",
+          "card_training_status": "Trained"
+        }
+      },
+      "submit_success": "Kartu disimpan dan/atau diperbarui.",
+      "submit_error": "Gagal menyimpan kartu.",
+      "import_button": "Impor",
+      "enable_ocr_tooltip": "Jika diaktifkan, silakan unggah tangkapan layar yang diurut berdasarkan Level (レ ベ ル).\nHal ini menggunakan Tesseract untuk mengenali level kartu dan rank master. Proses ini akan sedikit memakan waktu.\nStatus training diambil dari thumbnail, pastikan Anda menggunakan yang benar.",
+      "enable_ocr": "Kenali data kartu",
+      "wrong_result": "Kartu tidak terduga?",
+      "help": {
+        "step1": {
+          "title": "Langkah 1: Ambil Tangkapan Layar",
+          "subtitle": "Ambil tangkapan layar dari kotak Anda, pastikan \"Lv.XX\" ditampilkan, bukan kekuatan (hanya angka)."
+        },
+        "step2": {
+          "title": "Langkah 2: Unggah Tangkapan Layar Anda",
+          "subtitle": "1: Klik dan pilih tangkapan layar Anda.\n2: Secara eksperimental akan mengenali level kartu dan rank master dengan OCR (Tesseract)."
+        },
+        "step3": {
+          "title": "Langkah 3: Konfirmasikan Hasilnya",
+          "subtitle": "1: Gambar mini kartu dipangkas dari tangkapan layar Anda.\n2: Gambar mini kartu paling cocok dengan kesamaan dalam persentase.\n3: Cerita spesial diasumsikan sebagai semua terbuka, ingat untuk mematikannya jika tidak dibuka.\n4: Kirim dan simpan kartu yang dikenali.\n5: Jika kartu salah dikenali, klik untuk mengganti."
+        },
+        "step4": {
+          "title": "Lampiran: Modifikasi Hasil",
+          "subtitle": "Dialog ini akan ditampilkan jika Anda mengklik thumbnail kartu yang cocok (kotak merah dengan angka 5 pada langkah 3).\n1: Menampilkan kemungkinan kecocokan lain untuk kartu ini.\n2: Jika Anda tidak menginginkan kartu ini, Anda dapat menghapusnya dari daftar."
+        }
+      }
+    },
+    "upload_avatar_error": "Gagal mengunggah avatar!",
+    "upload_avatar": "Unggah Avatar",
+    "username": "Nama pengguna",
+    "nickname": "Nama Tampilan",
+    "role": "Role",
+    "email": "Email",
+    "button": {
+      "show_email": "Lihat",
+      "update_sekai_profile": "Perbarui Profil Sekai",
+      "bind_sekai_id": "Bind",
+      "verify_sekai_id": "Verifikasi"
+    },
+    "email_confirmed": "Email Dikonfirmasi",
+    "syncing_card_team": "Menyinkronkan Kartu dan Tim Sekai....",
+    "label": {
+      "update_left": "Jumlah pembaruan digunakan: {{ used }} / {{ allowed }}",
+      "sekai_id_verify_step_1_title": "Buka Profil",
+      "sekai_id_verify_step_1_subtitle": "Tekan \"Menu\" (1) di pojok kanan atas, lalu tekan tombol \"称号 & プロフィール\" (2) ",
+      "sekai_id_verify_step_2_title": "Tulis token dan simpan",
+      "sekai_id_verify_step_2_subtitle": "Tulis token verifikasi Anda {{verify_token}} ke kotak teks (1), lalu tekan tombol \"Kembali\" (2) untuk menyimpan. Setelah itu klik/tekan tombol \"VERIFIKASI\".",
+      "sekai_id_verify": "Verifikasi",
+      "sekai_id_not_verified": "Tidak diverifikasi",
+      "sekai_user_id": "ID Pengguna Sekai",
+      "unlink_sekai_id": "Batalkan Tautan ID Sekai",
+      "sekai_id_verify_token": "Token",
+      "sekai_user_name": "Nama",
+      "sekai_user_rank": "Rank",
+      "sekai_user_word": "Perkenalan",
+      "sekai_user_music_not_found": "Catatan musik pengguna tidak ditemukan."
+    },
+    "event": {
+      "current_record_info": "Rekaman terakhir:",
+      "current_record_point": "Event point:",
+      "current_record_rank": "Peringkat Event:",
+      "current_record_time": "Waktu rekaman:",
+      "current_name": "Event saat ini:"
+    },
+    "sekai_id_delete_confirm": {
+      "title": "Batalkan tautan konfirmasi ID Sekai",
+      "content1": "Apakah Anda yakin untuk memutuskan tautan ID Sekai ini? Semua data. Misalnya. Riwayat catatan peristiwa akan hilang!"
+    },
+    "sekai_id_transfer": {
+      "title": "Pemindahan ID Sekai",
+      "content1": "Karena ID Sekai yang diberikan sudah terikat dengan pengguna lain, jika Anda melakukannya dengan sengaja dan mengingat nama pengguna akun pengguna sebelumnya, Anda dapat memasukkannya ke dalam kotak teks di bawah ini. Jika Anda lupa nama pengguna sebelumnya, Anda dapat DM @SekaiViewer di twitter untuk transfer manual"
+    },
+    "error": {
+      "sekai_id_verify_failed": "Gagal memverifikasi kepemilikan, apakah Anda ingin keluar dari panel profil untuk menyimpan?",
+      "sekai_id_malformed": "ID Sekai adalah nomor 16 digit atau lebih, bukan nama pengguna Anda",
+      "sekai_id_already_bind": "ID Sekai sudah terikat dengan pengguna lain."
+    },
+    "card_list": {
+      "submit_success": "Status kartu diperbarui.",
+      "submit_error": "Gagal memperbarui status kartu.",
+      "button": {
+        "add_card": "Tambahkan Kartu"
+      }
+    },
+    "statistics": {
+      "clear_count": "Hapus Jumlah",
+      "full_combo_count": "Jumlah Full Combo",
+      "all_perfect_count": "Jumlah All Perfect"
+    },
+    "sekai_id": "ID Pengguna Sekai",
+    "email_confirmed_status": {
+      "true": "Ya",
+      "false": "Tidak"
+    }
+  }
+}

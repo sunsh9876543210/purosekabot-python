@@ -1,0 +1,118 @@
+{
+  "profile": {
+    "title": {
+      "user_deck": "目前遊戲隊伍",
+      "user_event": "遊戲活動數據",
+      "card_list": "遊戲卡片",
+      "import_card": "匯入遊戲卡片",
+      "manage_teams": "管理隊伍",
+      "sekai_profile": "遊戲個人資料",
+      "sekai_cards_teams": "遊戲卡片及隊伍",
+      "user_statistics": "遊戲數據"
+    },
+    "import_card": {
+      "table": {
+        "row": {
+          "card_master_rank": "突破等級",
+          "cropped_image": "來源",
+          "best_match": "配對",
+          "card_states": "卡片狀態",
+          "other_possible_result": "其他可能",
+          "card_power": "綜合力",
+          "card_training_status": "特訓後"
+        }
+      },
+      "submit_success": "已經儲存或更新卡片。",
+      "submit_error": "無法儲存卡片。",
+      "import_button": "匯入",
+      "enable_ocr_tooltip": "請上傳根據等級排列的卡片列表截圖，系統會使用Tesseract去辨認卡片等級及突破等級，而這個步驟需要一點時間。\n特訓與否以卡片縮圖作判斷，請確保使用正確的卡片縮圖。",
+      "enable_ocr": "辨認卡片數值",
+      "wrong_result": "辨識成錯誤的卡片？",
+      "help": {
+        "step1": {
+          "title": "步驟1：截圖",
+          "subtitle": "截圖您的卡片背包，確保顯示的是「Lv.XX」而不是綜合力。"
+        },
+        "step2": {
+          "title": "步驟2：上傳截圖",
+          "subtitle": "1：點擊及選取截圖；\n2：利用實驗性OCR功能（Tesseract）辨識卡片等級及突破等級。"
+        },
+        "step3": {
+          "title": "步驟3：確認結果",
+          "subtitle": "1：從您的截圖中自動找出卡片縮圖；\n2：顯示配對率最高的卡片縮圖；\n3：默認所有支線故事已經解鎖，如果未解鎖，請調整狀態；\n4：提交及儲存經辨識的卡片；\n5：如果辨識結果出錯，請點擊卡片以替換。"
+        },
+        "step4": {
+          "title": "附錄：調整結果",
+          "subtitle": "這個文字框會在您點擊卡片縮圖時顯示。\n1：顯示其他可能的配對卡片；\n2：若您不想要這張卡片，您可以將它從列表中移除。"
+        }
+      }
+    },
+    "upload_avatar_error": "無法上傳頭貼！",
+    "upload_avatar": "上傳頭貼",
+    "username": "使用者名稱",
+    "nickname": "顯示使用者名稱",
+    "role": "角色",
+    "email": "電子信箱",
+    "button": {
+      "show_email": "顯示",
+      "update_sekai_profile": "更新遊戲個人資料",
+      "bind_sekai_id": "綁定",
+      "verify_sekai_id": "驗證"
+    },
+    "email_confirmed": "已確認電子信箱",
+    "syncing_card_team": "同步Sekai卡片和團隊......",
+    "label": {
+      "update_left": "更新次數已用： {{ used }} / {{ allowed }}",
+      "sekai_id_verify_step_1_title": "打開個人檔案",
+      "sekai_id_verify_step_1_subtitle": "點擊右上角的「目錄」(1)按鈕，然後點擊＂称号 & プロフィール＂(2)按鈕",
+      "sekai_id_verify_step_2_title": "填入令牌並儲存",
+      "sekai_id_verify_step_2_subtitle": "填入你的驗證令牌 {{verify_token}} 到文字框內(1)，然後點擊「上一頁」(2)按鈕以儲存。在這之後點擊「驗證」按鈕。",
+      "sekai_id_verify": "驗證",
+      "sekai_id_not_verified": "未驗證",
+      "sekai_user_id": "遊戲ID",
+      "unlink_sekai_id": "解除Sekai ID綁定",
+      "sekai_id_verify_token": "令牌",
+      "sekai_user_name": "名字",
+      "sekai_user_rank": "等級",
+      "sekai_user_word": "個人簡介",
+      "sekai_user_music_not_found": "找不到對應的樂曲紀錄。"
+    },
+    "event": {
+      "current_record_info": "上一條記錄：",
+      "current_record_point": "活動pt：",
+      "current_record_rank": "活動排名：",
+      "current_record_time": "記錄時間：",
+      "current_name": "當前活動："
+    },
+    "sekai_id_delete_confirm": {
+      "title": "確認解除Sekai ID綁定",
+      "content1": "是否確認要解除這個Sekai ID的綁定？將遺失包含歷史活動紀錄在內的所有資料！"
+    },
+    "sekai_id_transfer": {
+      "title": "轉移Sekai ID",
+      "content1": "此Sekai ID已經綁定其他使用者，若您確認要進行並記得之前綁定過的使用者名稱，請在下面的文字框裡輸入該使用者名稱以完成轉移。若您忘記使用者名稱，請在Twitter上搜尋@SekaiViewer 並私訊以完成手動轉移。"
+    },
+    "error": {
+      "sekai_id_verify_failed": "無法驗證所有者，您是否忘記了離開資料界面以保存？",
+      "sekai_id_malformed": "Sekai ID是一個16位的數字字串，並非使用者名稱",
+      "sekai_id_already_bind": "遊戲ID已經綁定另一位使用者。"
+    },
+    "card_list": {
+      "submit_success": "已經更新卡片列表。",
+      "submit_error": "無法更新卡片列表。",
+      "button": {
+        "add_card": "加入卡片"
+      }
+    },
+    "statistics": {
+      "clear_count": "完成遊玩",
+      "full_combo_count": "Full Combo",
+      "all_perfect_count": "All Perfect"
+    },
+    "sekai_id": "遊戲ID",
+    "email_confirmed_status": {
+      "true": "是",
+      "false": "否"
+    }
+  }
+}

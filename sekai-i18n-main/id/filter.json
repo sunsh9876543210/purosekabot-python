@@ -1,0 +1,42 @@
+{
+  "character": {
+    "caption": "Karakter"
+  },
+  "sort": {
+    "caption": "Urutkan",
+    "ascending": "Naik",
+    "descending": "Turun"
+  },
+  "honorType": {
+    "caption": "Jenis Titel",
+    "group_only_once": "Hanya tampilkan satu di setiap grup"
+  },
+  "not_set": "Tidak diatur",
+  "missionType": {
+    "caption": "Jenis Misi"
+  },
+  "music_tag": {
+    "caption": "Tag lagu"
+  },
+  "music_mv": {
+    "caption": "Tipe MV"
+  },
+  "not-selected": "Tidak dipilih",
+  "stampType": {
+    "caption": "Tipe Stamp",
+    "text": "Teks saja",
+    "illustration": "Dengan Ilustrasi"
+  },
+  "language": {
+    "caption": "Bahasa",
+    "source": "Bahasa sumber",
+    "target": "Bahasa Target"
+  },
+  "skill": {
+    "score_up": "Peningkatan Skor",
+    "judgment_up": "Penilaian dan Peningkatan Skor",
+    "life_recovery": "Pemulihan Nyawa & Peningkatan Skor",
+    "perfect_score_up": "Peningkatan Skor ketika PERFECT",
+    "life_score_up": "Kondisi hidup dengan Skor Tambahan"
+  }
+}

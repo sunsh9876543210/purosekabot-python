@@ -1,0 +1,42 @@
+{
+  "skill": {
+    "score_up": "分数加成",
+    "judgment_up": "判定和分数加成",
+    "life_recovery": "生命恢复和分数加成",
+    "perfect_score_up": "PERFECT时分数加成",
+    "life_score_up": "有生命值要求的分数加成"
+  },
+  "character": {
+    "caption": "角色"
+  },
+  "sort": {
+    "caption": "排序",
+    "ascending": "升序",
+    "descending": "降序"
+  },
+  "honorType": {
+    "caption": "头衔类型",
+    "group_only_once": "每组只显示一项"
+  },
+  "not_set": "未指定",
+  "missionType": {
+    "caption": "任务类型"
+  },
+  "music_tag": {
+    "caption": "歌曲标签"
+  },
+  "music_mv": {
+    "caption": "MV类型"
+  },
+  "not-selected": "尚未选择",
+  "stampType": {
+    "caption": "贴纸类型",
+    "text": "纯文本",
+    "illustration": "插画"
+  },
+  "language": {
+    "caption": "语言",
+    "source": "源语言",
+    "target": "目标语言"
+  }
+}

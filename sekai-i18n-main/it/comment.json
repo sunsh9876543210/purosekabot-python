@@ -1,0 +1,17 @@
+{
+  "send": "Invia",
+  "write": "Scrivi",
+  "no_comment_yet": "Nessun commento.",
+  "report-abuse": {
+    "title": "Segnala commento",
+    "description": "Segnala questo commento se pensi che ti metta a disagio.",
+    "reason": {
+      "label": "Motivazione del report",
+      "other": "Altro",
+      "bad_words": "Parolacce",
+      "discrimination": "Discriminazione"
+    },
+    "content": "Il tuo messaggio",
+    "success": "Grazie per la tua segnalazione, la controlleremo a breve."
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "send": "Wyślij",
+  "write": "Utwórz",
+  "no_comment_yet": "Brak komentarzy.",
+  "report-abuse": {
+    "title": "Zgłoś komentarz",
+    "description": "Zgłoś ten komentarz, jeśli sprawia, że czujesz się niekomfortowo.",
+    "reason": {
+      "label": "Zgłoś powód",
+      "other": "Inny",
+      "bad_words": "Złe słowa",
+      "discrimination": "Dyskryminacja"
+    },
+    "content": "Twoja wiadomość",
+    "success": "Dziękujemy za twoje zgłoszenie, wkrótce się z nim zapoznamy."
+  }
+}

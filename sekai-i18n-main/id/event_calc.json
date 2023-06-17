@@ -1,0 +1,41 @@
+{
+  "result": {
+    "perHour": "Per Jam",
+    "eventPointPerPlay": "Point Event Sekali Main",
+    "playClount": "Total Jumlah Permainan",
+    "playTime": "Total Waktu Permainan",
+    "useBoost": "Total Energi yang Dikonsumsi",
+    "totalPoint": "Total Poin Event"
+  },
+  "eventData": {
+    "label": "Data Event"
+  },
+  "eventMode": {
+    "existed": "Yang Ada",
+    "custom": "Kustomisasi"
+  },
+  "gameData": {
+    "energyDrink": "Biaya Boost",
+    "eventBonusRate": "Rate Bonus Event (%)",
+    "teamAvgPower": "Power Total Rata-Rata",
+    "currentPoint": "Poin Saat Ini",
+    "targetPoint": "Target Poin",
+    "label": "Data Game",
+    "desc": "Isi data dari game untuk diperhitungkan",
+    "remainingTime": "Sisa Waktu Event"
+  },
+  "songSelect": {
+    "label": "Pilih Lagu",
+    "select": {
+      "difficulty": "Tingkat kesulitan",
+      "song": "Lagu"
+    },
+    "desc": "Pilih lagu untuk dianalisis."
+  },
+  "songMode": {
+    "label": "Pilih Lagu",
+    "all_songs": "Bandingkan Lagu",
+    "only_one": "Target"
+  },
+  "assumption": "Asumsi: all perfect, semua pemain memiliki tim yang sama, tidak ada bonus boost naik level."
+}

@@ -1,0 +1,18 @@
+{
+  "fetch_error": "Error occured while fetching data.",
+  "category": "Category",
+  "no_entry": "No entries.",
+  "published_at": "Published At",
+  "translators": "Translators",
+  "title": "Title",
+  "language": "Language",
+  "author": "Author",
+  "co-authors": "Co-Authors",
+  "categoryName": {
+    "website": "Website",
+    "normal": "Other",
+    "game_update": "Game Update",
+    "maintenance": "Maintenance",
+    "bug": "Bug"
+  }
+}

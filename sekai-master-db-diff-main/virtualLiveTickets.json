@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "virtualLiveId": 112,
+    "virtualLiveTicketType": "paid",
+    "name": "コネクトライブ リハーサル公演ライブチケット",
+    "flavorText": "コネクトライブのリハーサル公演に入場するために必要なアイテム。",
+    "assetbundleName": "rtvl_ticket_0001"
+  },
+  {
+    "id": 2,
+    "virtualLiveId": 142,
+    "virtualLiveTicketType": "paid",
+    "name": "第2回コネクトライブリハーサル公演チケット",
+    "flavorText": "第2回コネクトライブのリハーサル公演に入場するために必要なアイテム。",
+    "assetbundleName": "rtvl_ticket_0001"
+  },
+  {
+    "id": 3,
+    "virtualLiveId": 154,
+    "virtualLiveTicketType": "paid",
+    "name": "「コネクトライブ Vivid BAD SQUAD 1st CRASH」公演チケット",
+    "flavorText": "「コネクトライブ Vivid BAD SQUAD 1st CRASH」に入場するために必要なアイテム。",
+    "assetbundleName": "rtvl_ticket_1st_vbs"
+  },
+  {
+    "id": 4,
+    "virtualLiveId": 170,
+    "virtualLiveTicketType": "paid",
+    "name": "「コネクトライブ テクニカルテスト」チケット",
+    "flavorText": "コネクトライブ テクニカルテストへの入場に使用できるアイテム。",
+    "assetbundleName": "rtvl_ticket_0001"
+  },
+  {
+    "id": 5,
+    "virtualLiveId": 176,
+    "virtualLiveTicketType": "paid",
+    "name": "「コネクトライブ 2nd ANNIVERSARY SPECIAL STAGE」公演チケット",
+    "flavorText": "「コネクトライブ 2nd ANNIVERSARY SPECIAL STAGE」に入場するために必要なアイテム。",
+    "assetbundleName": "rtvl_ticket_2ndanniversary"
+  },
+  {
+    "id": 6,
+    "virtualLiveId": 177,
+    "virtualLiveTicketType": "paid",
+    "name": "「コネクトライブ テクニカルテスト」チケット",
+    "flavorText": "コネクトライブ テクニカルテストへの入場に使用できるアイテム。",
+    "assetbundleName": "rtvl_ticket_4th_live_beta"
+  },
+  {
+    "id": 7,
+    "virtualLiveId": 207,
+    "virtualLiveTicketType": "paid",
+    "name": "「コネクトライブ テクニカルテスト」チケット",
+    "flavorText": "コネクトライブ テクニカルテストへの入場に使用できるアイテム。",
+    "assetbundleName": "rtvl_ticket_5th_live_beta"
+  },
+  {
+    "id": 8,
+    "virtualLiveId": 220,
+    "virtualLiveTicketType": "paid",
+    "name": "「コネクトライブ MORE MORE JUMP！ 1st JUMPIN！」公演チケット",
+    "flavorText": "「コネクトライブ MORE MORE JUMP！ 1st JUMPIN！」に入場するために必要なアイテム。",
+    "assetbundleName": "rtvl_ticket_1st_mmj"
+  },
+  {
+    "id": 9,
+    "virtualLiveId": 230,
+    "virtualLiveTicketType": "paid",
+    "name": "「コネクトライブ Leo\/need 1st SPARKLE」公演チケット",
+    "flavorText": "「コネクトライブ Leo\/need 1st SPARKLE」に入場するために必要なアイテム。",
+    "assetbundleName": "rtvl_ticket_1st_lon"
+  }
+]

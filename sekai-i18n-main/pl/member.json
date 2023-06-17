@@ -1,0 +1,31 @@
+{
+  "tab": {
+    "title[0]": "Osoba",
+    "title[1]": "Etykieta z nazwą (poziomo)",
+    "title[2]": "Etykieta z nazwą (pionowo)"
+  },
+  "name": "Nazwa",
+  "hiragana": "Furigana",
+  "gender": {
+    "caption": "Płeć",
+    "female": "Kobieta",
+    "male": "Mężczyzna",
+    "secret": "Sekret"
+  },
+  "scenario": "Historia",
+  "introduction": "Przedstawienie",
+  "colorCode": "Kolor wizerunku",
+  "skinColorCode": "Kolor skóry",
+  "skinShadowColorCode1": "Kolor cienia skóry 1",
+  "skinShadowColorCode2": "Kolor cienia skóry 2",
+  "height": "Wysokość",
+  "birthday": "Urodziny",
+  "characterVoice": "Aktor głosowy",
+  "school": "Szkoła",
+  "schoolYear": "Klasa",
+  "hobby": "Hobby",
+  "specialSkill": "Specjalność",
+  "favoriteFood": "Ulubione jedzenie",
+  "hatedFood": "Nielubiane jedzenie",
+  "weak": "Słabość"
+}

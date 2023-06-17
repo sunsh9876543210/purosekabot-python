@@ -1,0 +1,26 @@
+{
+  "cardLevel": "Card Level",
+  "skillLevel": "Skill Level",
+  "trained": "Trained",
+  "sideStory1Unlocked": "Side Story 1 Unlocked",
+  "sideStory2Unlocked": "Side Story 2 Unlocked",
+  "skillName": "Skill Name",
+  "tab": {
+    "title[0]": "Normal image",
+    "title[1]": "Normal trim image",
+    "title[2]": "After training image",
+    "title[3]": "After training trim image"
+  },
+  "gachaPhrase": "Gacha Phrase",
+  "skillEffect": "Skill Effect",
+  "masterRank": "Master Rank",
+  "masterRankLevel": "Master Rank Level",
+  "stats": "Stats",
+  "normal": "Normal",
+  "sideStory": "Side Story",
+  "sideStory_plural": "Side Stories",
+  "rarity": "Rarity",
+  "power": "Power",
+  "apply_event_filter": "Apply Event Bonuses",
+  "skill": "Skill"
+}

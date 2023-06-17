@@ -1,0 +1,45 @@
+{
+  "game-news": {
+    "action": "Tindakan",
+    "show-from": "Lihat dari",
+    "title-column": "Judul",
+    "show-until": "Lihat Hingga",
+    "title": "Berita Permainan"
+  },
+  "update": "Tautan Terkait",
+  "alert_contributor": {
+    "title": "Terima kasih kepada kontributor pengembangan kami!"
+  },
+  "alert_translate": {
+    "title": "Terima kasih kepada para penerjemah!"
+  },
+  "versionInfo": {
+    "caption": "Informasi Versi",
+    "gameClientVer": "Versi Klien Game",
+    "dataVer": "Versi Data",
+    "assetVer": "Versi Aset",
+    "multiPlayerVer": "Versi Multipemain"
+  },
+  "disclaimer": "Website ini tidak memiliki material, semua kredit kembali kepada pemiliknya, termasuk tapi tidak terbatas ke Sega, Colorful Palette dan  Crypton. Website ini adalah database buatan fan dan hanya digunakan untuk kebutuhan penelitian, dan tidak punya relasi resmi dengan Sega atau Colorful Palette.",
+  "detect": {
+    "warning": "Berjalan dalam mode kompatibilitas, Anda mungkin mengalami masalah pada kinerja. Pertimbangkan untuk meningkatkan browser atau versi iOS/macOS Anda. Info selengkapnya: <l>Dapatkah saya menggunakan - format gambar WebP</l>",
+    "failed": "Sayangnya, Anda tidak dapat memuat sebagian besar gambar. Tingkatkan versi browser atau iOS/macOS Anda. Solusi kompatibilitas akan segera tersedia.<br> Info selengkapnya: <l>Dapatkah Saya Menggunakan - format gambar WebP</l>",
+    "success": "Selamat! Browser Anda tampak modern, Anda dapat memuat gambar lebih cepat dan menghemat bandwidth."
+  },
+  "directLink": {
+    "caption": "Jalan Pintas",
+    "contribList": "Kontributor"
+  },
+  "alert1": {
+    "translation": "Terjemahan",
+    "development": "Pengembang",
+    "title": "Dibutuhkan bantuan!",
+    "see_contrib_list": "Lihat daftar kontributor",
+    "contact": "Hubungi Saya",
+    "join-discord": "Gabung Server Discord"
+  },
+  "changelog": "Catatan Perubahan",
+  "happy_new_year": "🎊Selamat Tahun Baru!🎉",
+  "new_year_countdown": "Hitung mundur ke tahun baru",
+  "alert_settings": "Gunakan <s /> di pojok kanan atas untuk mengubah bahasa, beralih mode kecerahan, dan lainnya."
+}

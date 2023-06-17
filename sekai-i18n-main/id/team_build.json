@@ -1,0 +1,27 @@
+{
+  "error": {
+    "save_team_failed": "Gagal menyimpan tim. Jika sering terjadi, kemungkinan ini adalah bug."
+  },
+  "save_team_succeed": "Data tim tersimpan",
+  "button": {
+    "calc_total_power": "Dapatkan Kekuatan Penuh"
+  },
+  "auto_calc_bonus": "Gunakan Profil Sekai",
+  "use_sekai_card_state": "Gunakan Status Kartu Sekai yang Tersimpan",
+  "saveTeamDialog": {
+    "title": "Simpan Tim",
+    "desc": "Simpan entri tim baru atau ganti entri tim yang sudah ada."
+  },
+  "storage_location": {
+    "label": "Lokasi Penyimpanan",
+    "local": "Lokal",
+    "cloud": "Penyimpanan Online"
+  },
+  "storage_space": "Ruang Penyimpanan",
+  "noTeams": "Tidak ada entri tim yang disimpan.",
+  "saveNewEntry": "Simpan entri tim baru",
+  "loadTeamDialog": {
+    "title": "Muat Tim",
+    "desc": "Muat tim dari entri tim yang disimpan."
+  }
+}

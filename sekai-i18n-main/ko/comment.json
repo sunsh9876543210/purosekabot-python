@@ -1,0 +1,17 @@
+{
+  "send": "전송",
+  "write": "작성",
+  "no_comment_yet": "댓글이 없습니다.",
+  "report-abuse": {
+    "title": "댓글 신고하기",
+    "description": "해당 댓글이 불쾌하시다면 신고해 주세요.",
+    "reason": {
+      "label": "신고 사유",
+      "other": "기타",
+      "bad_words": "욕설 사용",
+      "discrimination": "차별 행위"
+    },
+    "content": "내 메시지",
+    "success": "신고해 주셔서 감사합니다. 빠른 시일 내로 검토됩니다."
+  }
+}

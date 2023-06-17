@@ -1,0 +1,29 @@
+{
+  "character": {
+    "caption": "Personaggio"
+  },
+  "sort": {
+    "caption": "Ordina",
+    "ascending": "Crescente",
+    "descending": "Decrescente"
+  },
+  "honorType": {
+    "caption": "Tipologia titolo",
+    "group_only_once": "Mostra solo uno per ogni gruppo"
+  },
+  "not_set": "Non settato",
+  "missionType": {
+    "caption": "Tipo missione"
+  },
+  "music_tag": {
+    "caption": "Tag canzone"
+  },
+  "music_mv": {
+    "caption": "Tipologia MV"
+  },
+  "language": {
+    "caption": "Lingua",
+    "source": "Lingua d'origine",
+    "target": "Lingua scelta"
+  }
+}

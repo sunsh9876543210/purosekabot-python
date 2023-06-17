@@ -1,0 +1,42 @@
+{
+  "character": {
+    "caption": "Personnage"
+  },
+  "sort": {
+    "caption": "Trier",
+    "ascending": "Croissant",
+    "descending": "Décroissant"
+  },
+  "honorType": {
+    "caption": "Type de titre",
+    "group_only_once": "Afficher seulement un de chaque groupe"
+  },
+  "not_set": "Non défini",
+  "missionType": {
+    "caption": "Type de mission"
+  },
+  "music_tag": {
+    "caption": "Balise de chanson"
+  },
+  "music_mv": {
+    "caption": "Type de MV"
+  },
+  "not-selected": "Pas sélectionné",
+  "stampType": {
+    "caption": "Type de tampon",
+    "text": "Texte uniquement",
+    "illustration": "Avec illustration"
+  },
+  "language": {
+    "caption": "Langue",
+    "source": "Langue source",
+    "target": "Langue cible"
+  },
+  "skill": {
+    "score_up": "Augmentation de score",
+    "judgment_up": "Perfect Lock et amélioration de score",
+    "life_recovery": "Récupération de vie et amélioration de score",
+    "perfect_score_up": "Amélioration de score sur les PERFECTs uniquement",
+    "life_score_up": "Amélioration de score avec état de la vie"
+  }
+}
