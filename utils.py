@@ -6,6 +6,7 @@ import io
 import os
 import filepaths
 import utils
+import urls
 
 class Musics:
     def __init__(self, musicspath = filepaths.musics, difficultiespath = filepaths.difficulties):
@@ -34,13 +35,13 @@ class Musics:
         difficulties = ['?' for _ in range(5)]
         for i in self.difficultydata:
             if i['musicId'] == musicid:
-                diff = Constants.musicDifficulties.index(i['musicDifficulty'])
+                diff = Constants_Ko.musicDifficulties.index(i['musicDifficulty'])
                 difficulties[diff] = i['playLevel']
         return difficulties
     def convert_diff_to_message(self,songname, arr):
         rtstring = "PlayLevel of " + songname + "\n"
         for i,j in enumerate(arr):
-            rtstring += Constants.musicDifficulties[int(i)] + " : " + str(j) + " "
+            rtstring += Constants_Ko.musicDifficulties[int(i)] + " : " + str(j) + " "
         return rtstring
     def songinfo_to_array(self,musicid):
         rtarr = []
@@ -49,10 +50,13 @@ class Musics:
             if i['id'] == musicid:
                 return list(map(str,[i['title'],i['creator'],i['lyricist'],i['composer'],i['arranger'],i['assetbundleName']]))
     def songinfo_to_string(self,arr):
+        '''
         rtstring = ""
         for i in range(len(arr)-1):
-            rtstring += Constants.songInfoNames[i] + str(arr[i]) + "\n"
+            rtstring += Constants_Ko.songInfoNames[i] + str(arr[i]) + "\n"
         return rtstring
+        '''
+        return Constants_Ko.songInfoFormat.format(*(Constants_Ko.songInfoNames + arr))
     async def download_jacket_and_send(self,jacketname,message):
         url = urls.jacket + jacketname + "/" + jacketname + ".png"
         async with aiohttp.ClientSession() as session:
