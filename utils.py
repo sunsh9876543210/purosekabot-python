@@ -39,10 +39,13 @@ class Musics:
                 difficulties[diff] = i['playLevel']
         return difficulties
     def convert_diff_to_message(self,songname, arr):
+        '''
         rtstring = "PlayLevel of " + songname + "\n"
         for i,j in enumerate(arr):
             rtstring += Constants_Ko.musicDifficulties[int(i)] + " : " + str(j) + " "
         return rtstring
+        '''
+        return Constants_Ko.difficultyFormat.format(songname, *(Constants_Ko.difficultyNames + arr))
     def songinfo_to_array(self,musicid):
         rtarr = []
         idx = 0
