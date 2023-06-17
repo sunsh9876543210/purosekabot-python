@@ -18,6 +18,8 @@ class Musics:
             self.musicsdata = json.load(f)
         with open(difficultiespath) as f:
             self.difficultydata = json.load(f)
+        with open('./sekai-i18n-main/ko/music_titles.json', encoding="UTF-8") as f:
+            self.koreansongnames = json.load(f)
     def find_level_by_title(self, title):
         for i in self.musicsdata:
             if title.lower().replace(' ','') in i['title'].lower().replace(' ',''):
