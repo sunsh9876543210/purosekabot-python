@@ -1,4 +1,5 @@
-token
 sekai-i18n-main/
 seiak-master-db-diff-main/
 jackets/
+token
+*.pyc
