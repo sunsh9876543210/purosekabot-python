@@ -1,24 +1,26 @@
 import discord
 import json
-from constants_ko import Constants
+from constants_ko import Constants_Ko
 import aiohttp
 import io
 import os
+import filepaths
+import utils
 
 class Musics:
-    def __init__(self, musicspath = './sekai-master-db-diff-main/musics.json', difficultiespath = './sekai-master-db-diff-main/musicDifficulties.json'):
+    def __init__(self, musicspath = filepaths.musics, difficultiespath = filepaths.difficulties):
         with open(musicspath, encoding="UTF-8") as f:
             self.musicsdata = json.load(f)
         with open(difficultiespath, encoding="UTF-8") as f:
             self.difficultydata = json.load(f)
-        with open('./sekai-i18n-main/ko/music_titles.json', encoding="UTF-8") as f:
+        with open(Constants_Ko.musictitlespath, encoding="UTF-8") as f: #todo: change languages dynamic
             self.koreansongnames = json.load(f)
-    def bootstrap(self, musicspath = './sekai-master-db-diff-main/musics.json', difficultiespath = './sekai-master-db-diff-main/musicDifficulties.json'):
+    def bootstrap(self, musicspath = filepaths.musics, difficultiespath = filepaths.difficulties):
         with open(musicspath) as f:
             self.musicsdata = json.load(f)
         with open(difficultiespath) as f:
             self.difficultydata = json.load(f)
-        with open('./sekai-i18n-main/ko/music_titles.json', encoding="UTF-8") as f:
+        with open(Constants_Ko.musictitlespath, encoding="UTF-8") as f:
             self.koreansongnames = json.load(f)
     def find_level_by_title(self, title):
         for i in self.musicsdata:
@@ -43,16 +45,16 @@ class Musics:
     def songinfo_to_array(self,musicid):
         rtarr = []
         idx = 0
-        for i, j in enumerate(self.musicsdata):
-            if j['id'] == musicid:
-                return list(map(str,[j['title'],j['creator'],j['lyricist'],j['composer'],j['arranger'],j['assetbundleName']]))
+        for i in self.musicsdata:
+            if i['id'] == musicid:
+                return list(map(str,[i['title'],i['creator'],i['lyricist'],i['composer'],i['arranger'],i['assetbundleName']]))
     def songinfo_to_string(self,arr):
         rtstring = ""
         for i in range(len(arr)-1):
             rtstring += Constants.songInfoNames[i] + str(arr[i]) + "\n"
         return rtstring
     async def download_jacket_and_send(self,jacketname,message):
-        url = "https://assets.pjsek.ai/file/pjsekai-assets/startapp/music/jacket/" + jacketname + "/" + jacketname + ".png"
+        url = urls.jacket + jacketname + "/" + jacketname + ".png"
         async with aiohttp.ClientSession() as session:
             async with session.get(url) as resp:
                 img = await resp.read()

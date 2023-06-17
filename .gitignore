@@ -2,5 +2,5 @@ sekai-i18n-main/
 sekai-master-db-diff-main/
 jackets/
 token
-__pycache__
+__pycache__/
 *.pyc

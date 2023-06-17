@@ -1,4 +1,5 @@
-class Constants:
+class Constants_Ko:
+    musictitlespath = './sekai-i18n-main/ko/music_titles.json'
     musicDifficulties = ["easy","normal","hard","expert","master"]
     difficultyNames = ["Easy","Normal","Hard","Expert","Master"]
     songInfoNames = ["제목", "By", "작사", "작곡", "편곡"]
