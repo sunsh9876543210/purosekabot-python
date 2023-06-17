@@ -12,7 +12,7 @@ class MyClient(discord.Client):
         if message.author == self.user:
             return
 
-        if not message.channel.id == 1118870915145531402:
+        if not message.channel.__name__ == "봇":
             return
         if message.content[0] == '!':
             await message.channel.send('command executed : ' + message.content[1:])
