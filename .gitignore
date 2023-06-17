@@ -2,4 +2,8 @@ sekai-i18n-main/
 seiak-master-db-diff-main/
 jackets/
 token
+<<<<<<< HEAD
 *.pyc
+=======
+*.pyc
+>>>>>>> 6d8753440c626bf37be6a688413c2a1faeca93fd
